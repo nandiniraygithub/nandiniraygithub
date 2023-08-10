@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nandini ray</h1>
 <h3 align="center">A upcoming software engineer from India</h3>
 
-- 🌱 I’m currently learning **dsa wit java**
+- 🌱 I’m currently learning **dsa with java**
 
 - 📫 How to reach me **nandini16ray@gmail.com**
 
