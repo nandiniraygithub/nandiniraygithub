@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a frontend enginner
+Hello! I'm a frontend engineer
 
 
 ## 🌐 Socials:
