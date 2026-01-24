@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hello! I'm a frontend engineer</h1>
+<h1>Hello! I'm a fullstack developer </h1>
 
 
 ## 🌐 Socials:
